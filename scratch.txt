@@ -1,0 +1,4 @@
+//Example line of code
+if(x == 12){
+    alert("warning danger");
+}
